@@ -1,0 +1,6 @@
+tutorial de uso do software e placa:
+https://github.com/Razor-AHRS/razor-9dof-ahrs/wiki/Tutorial
+
+
+explicacao de como os sensores funcionam:
+http://www.starlino.com/imu_guide.html
